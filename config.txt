@@ -1,5 +1,5 @@
 token=NDkzNDEzNjM4NDYwMjc2NzM3.Dokm2w.sZcvTYNb9GR4iqp52ndpFKt10Zs
 owner=466858375544832001 
-prefix=po
-game=poplay
+prefix=2
+game=2play|Looks.
 stayinchannel=true
